@@ -1,0 +1,193 @@
+
+
+/*--Home css--*/
+.prime{
+	background: url(../img/back.png)no-repeat center top;
+	background-size: cover;
+	padding-bottom: 5%;
+}
+.img-center{
+	display: block;
+	width: 250px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+nav{
+	padding-top: 40px;
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline-block;
+	margin: 0 20px;
+}
+nav ul li a{
+	color: #fff;
+	text-decoration: none;
+}
+.prime h2{
+	background-color: gray;
+	opacity: 0.5;
+	color: #fff;
+	width: 55%;
+	padding: 15px 8px;
+}
+.prime p{
+	font-size: 15px;
+	color: #fff;
+	padding-bottom: 30px;
+}
+.prime span{
+	padding: 6% 0;
+    border-bottom: 3px solid #fff;
+    display: block;
+    width: 8%;
+    margin: 13px 0;
+}
+.btn-1{
+	background-color: #343432;
+    color: #fff;
+    width: 30%;
+    margin-top: 5%;
+}
+.secondary{
+	padding-top: 5%;
+
+}
+.secondary h2{
+	margin-top: 40px;
+	text-transform: uppercase;
+}
+.secondary span{
+	margin-bottom: 20px;
+}
+.secondary p{
+	margin: 20px 0;
+}
+.recc{
+	position: relative;
+}
+.rec {
+	width: 100%;
+}
+.carr {
+	position: absolute;
+    top: 7%;
+    left: 45%;
+}
+.car {
+	width: 100%;
+}
+.third{
+	background-color: #29282E;
+	padding-top: 60px;
+	padding-bottom: 10%;
+}
+.third h2{
+	color: #fff;
+}
+.third p{
+	color: #fff;
+}
+.third-sp{
+	padding: 5% 0;
+    border-bottom: 3px solid #fff;
+    display: block;
+    width: 8%;
+    margin: 12px 0;
+
+}
+.third img{
+	width: 100%;
+}
+footer{
+	background-color: #F33F2E;
+}
+footer p{
+	text-align: center;
+	color: #fff;
+	margin: 3% 0;
+}
+.txt {
+	color: #76AABB;
+}
+/*--Inside CSS--*/
+.recc-in{
+position: relative;
+}
+.rec-in{
+	width: 51%;
+}
+.carr-in{
+	position: absolute;
+    top: 15%;
+    left: 35%;
+}
+.car-in{
+	width: 100%;
+}
+.paint {
+	height: 6px;
+	background-color: #E4E4E4;
+}
+
+/*--Contact CSS--*/
+.contact-second {
+	background-color: #F14838;
+	padding-top: 5%;
+	padding-bottom: 2%;
+}
+.contact-second h2 {
+	color: #fff;
+	text-transform: uppercase;
+}
+.contact-second p {
+	color: #fff;
+}
+.contact-second img{
+	width: 100%;
+}
+.contact-second span{
+	margin: 40px;
+}
+.form-control {
+	width: 90%;
+	background: #FF6153;
+}
+.btn-4{
+    color: #fff;
+    background: transparent;
+    margin-top: 60px;
+    margin-right: 15px;
+    padding-bottom: 2%;
+}
+label {
+	text-transform: uppercase;
+	color: #fff;
+}
+
+
+
+/* Media Query*/
+/* Mobile Device*/
+@media (min-width: 0px;) and (max-width: 500px){
+	.one {
+		background-color: maroon;
+	}
+} 
+/* Mobile device end*/
+/* Small Device */
+@media (min-width: 500.01px) and (max-width: 700px){
+
+}
+/* Small Device end*/
+/* Medium Device*/
+@media (min-width: 700px;) and (max-width: 1200px){
+
+}
+/*Medium Device end*/
+/*Large Device*/
+@media (min-width: 1200.01px){
+	
+}
